@@ -1,0 +1,9 @@
+dim@dim-Aspire-ES1-572:~/ShkolaEltex2024_2025$ git remote add origin https://github.com/DmitriRozhdenko/ShkolaEltex2024_2025.git
+fatal: внешний репозиторий origin уже существует
+dim@dim-Aspire-ES1-572:~/ShkolaEltex2024_2025$ git branch -M main
+error: refname refs/heads/master not found
+fatal: Сбой переименования ветки
+dim@dim-Aspire-ES1-572:~/ShkolaEltex2024_2025$ git push -u origin main
+error: src refspec main does not match any.
+error: не удалось отправить некоторые ссылки в «https://github.com/DmitriRozhdenko/ShkolaEltex2024_2025.git»
+dim@dim-Aspire-ES1-572:~/ShkolaEltex2024_2025$ 
