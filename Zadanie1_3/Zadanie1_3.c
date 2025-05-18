@@ -3,7 +3,7 @@
  int main() {
 	 long  int viInput ;	//
 	 unsigned  int viTemp ;		// 
-	  unsigned  int viCounter =-3;
+	  unsigned  int viCounter;
 	 int i;
 		while(1)
 		{   printf("Введите число не больше 4294967295\n");			
